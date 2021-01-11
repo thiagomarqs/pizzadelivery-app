@@ -7,7 +7,7 @@ function Footer(){
         <footer className="main-footer">
           App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
           <div className="footer-icons">
-            <a href="https://linkedin.com/in/thiagosmarques" target="_new">
+            <a href="https://linkedin.com/school/devsuperior" target="_new">
               <LinkedInIcon />
             </a>
           </div>
