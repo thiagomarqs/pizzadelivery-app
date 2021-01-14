@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL_BASE = "http://localhost:8080"
+const URL_BASE = "https://pizza-d-app.herokuapp.com"
 const mapboxToken = process.env.REACT_APP_ACCESS_TOKEN_MAPBOX
 
 export function fetchProducts(){
