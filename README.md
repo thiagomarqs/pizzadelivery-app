@@ -7,7 +7,7 @@ Utiliza Java/Spring Boot no backend e React.js no frontend.\
 Desenvolvido durante a Semana DevSuperior 2.  
 
 Project of a pizza delivery app.\
-I used it to practice Spring Boot and have some introduction to React.js
+I used it to practice Spring Boot and have some introduction to React.js\
 The user can order a pizza choosing the flavors and informing their location.\
 Utilizes Java/Spring Boot on the backend e React.js on the frontend.\
 Developed during the Semana DevSuperior 2.  
